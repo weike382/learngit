@@ -5,4 +5,6 @@ Git is a boom
 
 git is aaaaaaaaaaaaaaaa
 
-Creating a new branch is quick & simple
+
+Creating a new branch is quick and simple.
+
